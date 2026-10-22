@@ -1,6 +1,4 @@
 package com.javanauta.notificacao.business.service;
-
-
 import com.javanauta.notificacao.business.dto.TarefasDTO;
 import com.javanauta.notificacao.infrastructure.exceptions.EmailExeception;
 import io.micrometer.observation.Observation;
